@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fe4Y1j3sVSXIjtjGoyVrY+SpeSFbHyWovbE0+ukNsWc=",
+  "Source": "aspnetcore-with-reactspa",
+  "BasePath": "_content/aspnetcore-with-reactspa",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
